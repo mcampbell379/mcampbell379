@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mitchell (Emi)</h1>
 <h3 align="center">A passionate full-stack developer from South Texas</h3>
 
@@ -22,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcampbell379&show_icons=true&theme=tokyonight&title_color=000000&locale=en&layout=compact" alt="mcampbell379" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcampbell379&show_icons=true&theme=tokyonight&title_color=7af0ff&text_color=2efffc&locale=en" alt="mcampbell379" /></p>
-

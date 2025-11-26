@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mitchell (Emi)</h1>
+<h1 align="center">Hi 👋, I'm Mitchell </h1>
 <h3 align="center">A passionate full-stack developer from South Texas</h3>
 
 - 🔭 I’m currently working on [Console Adventure Game](https://github.com/mcampbell379/console-game-framework)
